@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"e:\\CodeChef\\Clash Wildcard PICT\\1.cpp","tests":[{"id":1678804848394,"input":"3\n6\n3 2\n7\n5 3\n5\n2 5","output":"5\n7\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeChef\\Clash Wildcard PICT\\1.cpp","group":"local","local":true}

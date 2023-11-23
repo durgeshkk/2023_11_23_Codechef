@@ -1,0 +1,1 @@
+{"name":"Local: tp","url":"e:\\CodeChef\\19-03-2022\\tp.cpp","tests":[{"id":1683040348943,"input":"3\n2 3 4\n4 2 -5 6 5\n3 1 -3 -2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeChef\\19-03-2022\\tp.cpp","group":"local","local":true}
