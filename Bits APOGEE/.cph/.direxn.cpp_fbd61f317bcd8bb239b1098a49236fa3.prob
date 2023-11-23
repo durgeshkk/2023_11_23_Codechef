@@ -1,0 +1,1 @@
+{"name":"Local: direxn","url":"e:\\CodeChef\\Bits APOGEE\\direxn.cpp","tests":[{"id":1678462822909,"input":"6 6\nDDLURU\nRDLUDL\nRDUDLD\nURLLRR\nDUDDUL\nRRURDR","output":"3"},{"id":1678462842985,"input":"3 3\nRLR\nUDL\nDUR","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeChef\\Bits APOGEE\\direxn.cpp","group":"local","local":true}
